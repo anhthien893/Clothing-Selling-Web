@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 29, 2023, 11:09:29 AM
+    Author     : laptop
+*/
+html {
+  font-family: "Quicksand", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.form-group{
+    width: 500px;
+    height:auto;
+    text-align: center;
+    padding:20px 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.form-group h1{
+    font-size:50px;
+}
+.form-control{
+    width:90%;
+    margin-top: 20px;
+    height:30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.button{
+    margin-top: 20px;
+    width: 92%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 8px 8px;
+    background-color: #FCBCAE;
+    border:none;
+    border-radius: 20px;
+    font-family: "Quicksand", sans-serif;
+}
+.form-group p{
+    width: 92%;
+    margin:0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.form-group input{
+    font-family: "Quicksand", sans-serif;
+}
+.link{
+    text-decoration: none;
+    margin-top: 20px;
+    text-align: center;
+    color: #FCBCAE;
+}
+.logo{
+    width:100px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top:20px;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
